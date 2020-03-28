@@ -27,7 +27,6 @@ Check out my [Linkedin profile](https://www.linkedin.com/in/nataliyakaratkova/)
 - [x] Mobile-first
 - [x] Accessibility
 - [x] SEO
-- [x] Design systems
 - [x] HTML, CSS, JavaScript
 - [x] React, Redux, React Native
 - [x] Modern tooling (linters, build tools, testing etc.)
