@@ -3,22 +3,33 @@ nataliyakaratkova@gmail.com
 
 ## Experience
 
-|  | Position |
+| Company | Position |
 | --- | --- |
-| *2018* | **Midrive, London** — Frontend Developer <br><br> Next.js, React, Redux, Contentful, styled-components, Storybook, Jest <br><br> Talks: “Migrate a React application to server-side with Next.js”, “Next.js, Gatsby, Sapper. Tools are still evolving”, “Maintaining evergreen content with Next.js and Contentful” |
-| *2016* |**Paralect, Minsk** — Full-stack JavaScript Developer <br><br> React, Redux, ES6, CSS Modules, Webpack, Node.js, Express, MongoDB, MariaDB, Docker, Mocha, Chai, ESLint, Stylelint, Prettier <br><br> Internal workshops and mentoring |
-| *2015* | **Ciklum, Remote** — Frontend Developer <br><br> HTML5, Less, SVG, jQuery, Gulp, Git |
-| *2013* | **Promarket, Remote** — Frontend Developer <br><br> AngularJS, CoffeeScript, jQuery, Bootstrap, HTML5, Jade, Less, PostCSS, Bower, Gulp, Git, Gitflow |
-| *2012* | **Self-employed, Remote** — UI Developer <br><br> UI development for agencies, mentoring for HTML&CSS online course |
-| *2010* |**Itibo, Grodno** — Flash & UI Developer <br><br> ActionScript 3, Adobe Flash, jQuery, HTML, CSS, Haml, Sass, PHP, Wordpress, Liferay and IBM Portal theme, Wordpress, Joomla!, SVN |
+| **Midrive, London** <br> *2018* | **Frontend Developer** <br> React, Redux, Next.js, Contentful, styled-components, Storybook, Jest |
+| **Paralect, Minsk** <br> *2016* | **Full Stack JavaScript Developer** <br> React, Redux, ES6, CSS Modules, Webpack, Node.js, Express, MongoDB, MariaDB, Docker, Mocha, Chai, ESLint, Stylelint, Prettier <br><br> Internal workshops and mentoring |
+| **Ciklum, Remote** <br> *2015* | **Frontend Developer** <br> HTML5, Less, SVG, jQuery, Gulp, Git |
+| **Promarket, Remote** <br> *2013* | **Frontend Developer** <br> AngularJS, CoffeeScript, jQuery, Bootstrap, HTML5, Jade, Less, PostCSS, Bower, Gulp, Git, Gitflow |
+| **Self-employed, Remote** <br> *2012* | **Frontend Developer** <br> - UI development for agencies <br> - mentoring for HTML&CSS online course |
+| **Itibo, Grodno** <br> *2010* | **Flash & Frontend Developer** <br> ActionScript 3, Adobe Flash, jQuery, HTML, CSS, Haml, Sass, PHP, Wordpress, Liferay and IBM Portal theme, Wordpress, Joomla!, SVN |
 
-Check out my [Linkedin profile](https://www.linkedin.com/in/nataliyakaratkova/)
+## Talks
+*(2019)* Maintaining evergreen content with Next.js and Contentful
 
+*(2019)* Next.js, Gatsby, Sapper. Tools are still evolving
+
+*(2019)* Migrate a React application to server-side with Next.js
+
+*(2017)* React & React Advanced workshops
+
+*(2016)* CSS Grid Layout
+
+*(2016)* Avoiding spaghetti CSS
+
+*(2009)* Developing Rich Internet Applications Using Microsoft Silverlight 2
 
 ## Education
 
-*2005 – 2010* **Yanka Kupala State University of Grodno** — Bachelor's degree, Computer Science
-
+*(2005 – 2010)* **Yanka Kupala State University of Grodno** — Bachelor's degree, Computer Science
 
 ## Skills
 
